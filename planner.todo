@@ -1,7 +1,7 @@
 Pacman Game
 Basic:
   ✔ Project setup @done (23-05-29 20:11)
-  ☐ Generate map boundaries
+  ✔ Generate map boundaries @done (23-05-29 20:39)
   ☐ Add Pacman with movement
   ☐ Add collision detection
   ☐ Swap boundaries with images
